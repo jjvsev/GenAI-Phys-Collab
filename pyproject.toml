@@ -1,0 +1,11 @@
+[project]
+name = "genai-phys-collab"
+version = "0.0.0"
+requires-python = ">=3.10"
+dependencies = [
+  "matplotlib>=3.10.9",
+  "mph",
+  "numpy",
+]
+
+[tool.uv]
